@@ -11,16 +11,18 @@ bot_age = int(15) # Возраст бота (bot age)
 bot_name = str('"Sky".') # Имя бота (bot name)
 
 # Выводим сообщение для пользователя на экран (Display a message for the user on the screen)
-print("Hi, i'm bot", bot_name, "My age is", bot_age,"days")
+print("Hi, i'm bot", bot_name)
 
 # Запрашиваем имя пользователя и возраст(Asking for username and age)
-
+user_name = input("What's your name? ")
+user_age = int(input("How old are you? "))
+print(user_name, "Glad to meet you!", "Your age:", user_age, "And me:", bot_age)
 
 # Выводим значение типа переменных, которые ввел пользователь
 # (Displaying the value of the type of variables entered by the user)
-
-
+print("I put your name in a variable:", type(user_name))
+print("I put your age in a variable:", type(user_age))
 
 # Конец программы "Урок №1 - Задание №1", прощаемся с пользователем
 # (End of the program "Lesson No. 1 - Task No. 1", say goodbye to the user)
-print()
+print("Bay,", user_name)
