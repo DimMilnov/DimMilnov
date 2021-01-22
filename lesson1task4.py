@@ -8,4 +8,4 @@ while user_number > 0:
     if user_number % 10 > result_number:
         result_number = user_number % 10
     user_number = user_number // 10
-print("Самое большое число = ",result_number)
+print("Самое большое число = ", result_number)
