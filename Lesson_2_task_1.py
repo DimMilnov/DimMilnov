@@ -4,6 +4,7 @@
 # Элементы списка можно не запрашивать у пользователя, а указать явно, в программе.
 
 my_list = ['Hi', 2.5, 0.3232, True, [1, 2, 3], False, 55]
+print("В моем листе записаны данные, их вид:", my_list, '\n')
 i = int(0)
 my_list_len = int(len(my_list))
 while True:
@@ -11,5 +12,5 @@ while True:
     i += 1
     if my_list_len == i:
         break
-print('\n', "Список закончился", my_list)
+print('\n', "Список закончился")
 
