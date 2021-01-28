@@ -4,7 +4,7 @@
   Реализовать вывод данных о пользователе одной строкой """
 print("Привет, давай познакомимся и заполним твой личную карточку")
 
-def my_list(name, family, year, city, email, f_number):
+def my_list(name, year, city, family, email, f_number):
     date_list = [name, family, year, city, email, f_number]
     return date_list
 
