@@ -3,10 +3,8 @@
 
 print("Программа деления целых числен, Вам нужно ввести 2 аргумента")
 
-def result_func (*args):
+def result_func (user_number_one, user_number_two):
     try:
-        user_number_one = int(input("Введите первый аргумент:  "))
-        user_number_two = int(input("Введите второй аргумент:  "))
         sub = user_number_one / user_number_two
     except ZeroDivisionError:
         return "Ошибка- Делить на 0 нельзя"
@@ -14,7 +12,7 @@ def result_func (*args):
         return "Ошибка: Вы ввели один из аргументов, который не является числом!"
     return sub
 
-print(result_func())
+print(result_func(int(input("Введите первый аргумент:  ")), int(input("Введите второй аргумент:  "))))
 
 
 
