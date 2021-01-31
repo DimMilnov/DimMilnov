@@ -13,3 +13,15 @@ def int_func (*args):
     print(word.title())
     return
 int_func()
+
+# 2 Вариант
+def my_func(a):
+    my_word = a.split(' ')
+    total = []
+    for i in my_word:
+        string_element = str(i)
+        first_letter = string_element[:1].upper()
+        word = first_letter + string_element[1:]
+        total.append(word)
+    return total
+print(my_func(a = input("Введите предложение, используя только маленькие буквы: ")))
