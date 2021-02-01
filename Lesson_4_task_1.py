@@ -4,14 +4,13 @@
 
 from sys import argv
 
-print("Привет, жду приказов")
 
 path, prod_hours, rate_hours, user_prize = argv
 prod_hours = int(prod_hours)
 rate_hours = int(rate_hours)
 user_prize = int(user_prize)
 
-# print("Путь ", argv)
+print("Путь ", argv)
 print("Выработка в часах: ", prod_hours)
 print("Ставка в час: ", rate_hours, "Эльфийских пряников")
 print("Премия: ", user_prize, "Эльфийских пряников")
