@@ -4,7 +4,6 @@
 Подсказка: использовать функцию reduce(). """
 
 from functools import reduce
-from math import *
 
 
 my_list = [el + 2 for el in range(100, 1000) if el % 2 == 0]
