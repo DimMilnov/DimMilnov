@@ -1,0 +1,3 @@
+firm_Apple ООО 10000 5000
+firm_Google ООО 100000 1500
+firm_Antonov IP 10000 50000
