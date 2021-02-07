@@ -1,0 +1,10 @@
+[
+    {
+        "firm_Apple": 5000,
+        "firm_Google": 98500,
+        "firm_Antonov": -40000
+    },
+    {
+        "average_result": 103500
+    }
+]
