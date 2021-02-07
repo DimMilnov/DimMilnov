@@ -1,0 +1,560 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7d88af60-7ac5-4c72-8d79-3e6623d5ccf1" name="Default Changelist" comment="Completed Lesson_5_task_7" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="Lesson_5" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="1nN2OEUmhWVJUoYW1JDrPyNNSsb" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\FrukT\PycharmProjects\DimMilnov" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.Lesson_5_task_7">
+    <configuration name="Lesson_5_task_3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DimMilnov" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lesson_5_task_3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Lesson_5_task_4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DimMilnov" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lesson_5_task_4.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Lesson_5_task_5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DimMilnov" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lesson_5_task_5.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Lesson_5_task_6" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DimMilnov" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lesson_5_task_6.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Lesson_5_task_7" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DimMilnov" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lesson_5_task_7.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Lesson_5_task_7" />
+        <item itemvalue="Python.Lesson_5_task_6" />
+        <item itemvalue="Python.Lesson_5_task_5" />
+        <item itemvalue="Python.Lesson_5_task_4" />
+        <item itemvalue="Python.Lesson_5_task_3" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7d88af60-7ac5-4c72-8d79-3e6623d5ccf1" name="Default Changelist" comment="" />
+      <created>1611216193586</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1611216193586</updated>
+    </task>
+    <task id="LOCAL-00002" summary="The structure of programs has been created, task 1">
+      <created>1611227377253</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1611227377253</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Completed task 1">
+      <created>1611228993869</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1611228993869</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Completed task 2">
+      <created>1611253011865</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1611253011865</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Completed task 3">
+      <created>1611258451112</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1611258451112</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Completed task 4">
+      <created>1611312282450</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1611312282452</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Completed task 5">
+      <created>1611317771678</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1611317771680</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Completed task 6">
+      <created>1611319857146</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1611319857152</updated>
+    </task>
+    <task id="LOCAL-00009" summary="create lesson 2 task 1">
+      <created>1611484672823</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1611484672823</updated>
+    </task>
+    <task id="LOCAL-00010" summary="delete lesson 1 task 4 for lesson 2">
+      <created>1611484816832</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1611484816832</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Completed Lesson_2_task_1">
+      <created>1611515451924</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1611515451924</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Completed Lesson_2_task_1">
+      <created>1611516021813</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1611516021813</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Completed Lesson_2_task_1">
+      <created>1611516289754</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1611516289754</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Completed Lesson_2_task_2">
+      <created>1611580236272</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1611580236273</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Completed Lesson_2_task_3">
+      <created>1611656559533</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1611656559533</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Completed Lesson_2_task_4&#10;Create Lesson_2_task_5">
+      <created>1611679323701</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1611679323702</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Completed Lesson_2_task_4&#10;redact split">
+      <created>1611681517408</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1611681517408</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Completed Lesson_2_task_5&#10;Completed Lesson_2_task_6">
+      <created>1611682460600</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1611682460600</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Create Lesson_3_task_1">
+      <created>1611701604668</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1611701604668</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Create Lesson_3_task_1">
+      <created>1611702705390</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1611702705390</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Create Lesson_3_task_1">
+      <created>1611703151846</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1611703151846</updated>
+    </task>
+    <task id="LOCAL-00022" summary="update Lesson_3_task_1">
+      <created>1611703326083</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1611703326083</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Create Lesson_3_task_2">
+      <created>1611703496442</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1611703496442</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Completed Lesson_3_task_1">
+      <created>1611828698365</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1611828698365</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Completed Lesson_3_task_2">
+      <created>1611844061525</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1611844061525</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Completed Lesson_3_task_2">
+      <created>1611844214326</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1611844214326</updated>
+    </task>
+    <task id="LOCAL-00027" summary="Completed Lesson_3_task_3">
+      <created>1611848368397</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1611848368397</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Completed Lesson_3_task_4">
+      <created>1611859792749</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1611859792752</updated>
+    </task>
+    <task id="LOCAL-00029" summary="Completed Lesson_3_task_5">
+      <created>1611923882004</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1611923882004</updated>
+    </task>
+    <task id="LOCAL-00030" summary="Completed Lesson_3_task_1 update">
+      <created>1611939790678</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1611939790683</updated>
+    </task>
+    <task id="LOCAL-00031" summary="Completed Lesson_3_task_6">
+      <created>1612106938547</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1612106938550</updated>
+    </task>
+    <task id="LOCAL-00032" summary="Completed Lesson_3_task_6 update ver 2 finish">
+      <created>1612107393526</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1612107393526</updated>
+    </task>
+    <task id="LOCAL-00033" summary="Create Lesson_4_task_1">
+      <created>1612108254738</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1612108254738</updated>
+    </task>
+    <task id="LOCAL-00034" summary="Update code Lesson_4_task_1">
+      <created>1612172973798</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1612172973798</updated>
+    </task>
+    <task id="LOCAL-00035" summary="Completed code Lesson_4_task_1">
+      <created>1612178941670</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1612178941670</updated>
+    </task>
+    <task id="LOCAL-00036" summary="Create Lesson_4_task_1">
+      <created>1612179060257</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1612179060257</updated>
+    </task>
+    <task id="LOCAL-00037" summary="Completed Lesson_4_task_2">
+      <created>1612198367256</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1612198367257</updated>
+    </task>
+    <task id="LOCAL-00038" summary="Completed Lesson_4_task_3">
+      <created>1612201585361</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1612201585361</updated>
+    </task>
+    <task id="LOCAL-00039" summary="Completed Lesson_4_task_4">
+      <created>1612202417750</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1612202417750</updated>
+    </task>
+    <task id="LOCAL-00040" summary="Update Lesson_4_task_4 + pos and enumerate">
+      <created>1612203296785</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1612203296785</updated>
+    </task>
+    <task id="LOCAL-00041" summary="Completed Lesson_4_task_5">
+      <created>1612206456675</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1612206456675</updated>
+    </task>
+    <task id="LOCAL-00042" summary="Completed Lesson_4_task_5&#10;Completed Lesson_4_task_6">
+      <created>1612259271218</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1612259271218</updated>
+    </task>
+    <task id="LOCAL-00043" summary="Completed Lesson_4_task_7">
+      <created>1612260369308</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1612260369308</updated>
+    </task>
+    <task id="LOCAL-00044" summary="Create Lesson_5">
+      <created>1612287289279</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1612287289279</updated>
+    </task>
+    <task id="LOCAL-00045" summary="Completed Lesson_5_task_1">
+      <created>1612353842766</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1612353842766</updated>
+    </task>
+    <task id="LOCAL-00046" summary="Completed Lesson_5_task_2">
+      <created>1612454473777</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1612454473777</updated>
+    </task>
+    <task id="LOCAL-00047" summary="Completed Lesson_5_task_3 and task_4">
+      <created>1612520899197</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1612520899197</updated>
+    </task>
+    <task id="LOCAL-00048" summary="Completed Lesson_5_task_5">
+      <created>1612686177779</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1612686177779</updated>
+    </task>
+    <task id="LOCAL-00049" summary="Completed Lesson_5_task_6">
+      <created>1612686867429</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1612686867429</updated>
+    </task>
+    <task id="LOCAL-00050" summary="Completed Lesson_5_task_7">
+      <created>1612687986267</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1612687986268</updated>
+    </task>
+    <option name="localTasksCounter" value="51" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Completed Lesson_3_task_1" />
+    <MESSAGE value="Completed Lesson_3_task_2" />
+    <MESSAGE value="Completed Lesson_3_task_3" />
+    <MESSAGE value="Completed Lesson_3_task_4" />
+    <MESSAGE value="Completed Lesson_3_task_5" />
+    <MESSAGE value="Completed Lesson_3_task_1 update" />
+    <MESSAGE value="Completed Lesson_3_task_6" />
+    <MESSAGE value="Completed Lesson_3_task_6 update ver 2 finish" />
+    <MESSAGE value="Update code Lesson_4_task_1" />
+    <MESSAGE value="Completed code Lesson_4_task_1" />
+    <MESSAGE value="Create Lesson_4_task_1" />
+    <MESSAGE value="Completed Lesson_4_task_2" />
+    <MESSAGE value="Completed Lesson_4_task_3" />
+    <MESSAGE value="Completed Lesson_4_task_4" />
+    <MESSAGE value="Update Lesson_4_task_4 + pos and enumerate" />
+    <MESSAGE value="Completed Lesson_4_task_5" />
+    <MESSAGE value="Completed Lesson_4_task_5&#10;Completed Lesson_4_task_6" />
+    <MESSAGE value="Completed Lesson_4_task_7" />
+    <MESSAGE value="Create Lesson_5" />
+    <MESSAGE value="Completed Lesson_5_task_1" />
+    <MESSAGE value="Completed Lesson_5_task_2" />
+    <MESSAGE value="Completed Lesson_5_task_3 and task_4" />
+    <MESSAGE value="Completed Lesson_5_task_5" />
+    <MESSAGE value="Completed Lesson_5_task_6" />
+    <MESSAGE value="Completed Lesson_5_task_7" />
+    <option name="LAST_COMMIT_MESSAGE" value="Completed Lesson_5_task_7" />
+  </component>
+</project>
