@@ -9,7 +9,7 @@
 завершать скрипт. """
 
 from time import sleep
-
+import turtle
 
 class TrafficLight:
     __color = ['Красный', 'Желтый', 'Зеленый']
@@ -19,12 +19,23 @@ class TrafficLight:
         while i < 3:
             print(f'Светофор переключается \n '
                   f'{TrafficLight.__color[i]}')
+
             if i == 0:
+                window = turtle.Screen()
+                window.bgcolor('red')
                 sleep(7)
+
             elif i == 1:
+                window = turtle.Screen()
+                window.bgcolor('yellow')
                 sleep(2)
+
             elif i == 2:
+                window = turtle.Screen()
+                window.bgcolor('green')
+
                 sleep(10)
+
             i += 1
 
 
