@@ -22,9 +22,9 @@ class TrafficLight:
             if i == 0:
                 sleep(7)
             elif i == 1:
-                sleep(5)
+                sleep(2)
             elif i == 2:
-                sleep(3)
+                sleep(10)
             i += 1
 
 
